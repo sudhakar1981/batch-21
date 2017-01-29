@@ -8,7 +8,7 @@ clrscr();
 
 a=25;
 b=27;
-c=a*b;
+=a*b;
 d=a+c;
 
 printf("result = %d",d)
