@@ -3,8 +3,7 @@
 
 main();
 {
-int a,b,,c,e;
-clrscr();
+int a,b,c,d,e;
 
 a=30;
 b=50;
