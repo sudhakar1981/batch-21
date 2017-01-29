@@ -8,8 +8,7 @@ clrscr();
 
 a=25;
 b=27;
-=a*b;
-d=a+c;
+c=a*b;
 
 printf("result = %d",d)
 printf("multiplication of two numbers = %c",c);
