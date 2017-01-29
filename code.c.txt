@@ -9,6 +9,7 @@ a=30;
 b=50;
 d=25;
 c=a+b+d;
+e=b-a;
 
 printf("RESULT = %c",c);
 getche();
