@@ -3,14 +3,14 @@
 
 main();
 {
-int a,b,c;
-clrscr();
+int a,b,c,d,e;
 
-a=10;
-b=20;
-c=a+b;
+a=30;
+b=50;
+d=25;
+c=a+b+d;
 
-printf("addition of two numbers = %c",c);
+printf("RESULT = %c",c);
 getche();
 
 }

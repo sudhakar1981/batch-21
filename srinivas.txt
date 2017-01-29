@@ -3,14 +3,15 @@
 
 main();
 {
-int a,b,c;
+int a,b,c,d;
 clrscr();
 
 a=25;
 b=27;
-c=a*b;
+=a*b;
+d=a+c;
 
-printf("the solution is")
+printf("result = %d",d)
 printf("multiplication of two numbers = %c",c);
 getch();
 
