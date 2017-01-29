@@ -6,8 +6,8 @@ main();
 int a,b,c;
 clrscr();
 
-a=10;
-b=20;
+a=30;
+b=50;
 c=a+b;
 
 printf("addition of two numbers = %c",c);
