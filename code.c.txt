@@ -11,7 +11,6 @@ d=25;
 c=a+b+d;
 e=b-a;
 
-printf("RESULT = %c",c);
 getche();
 
-}
+}         
