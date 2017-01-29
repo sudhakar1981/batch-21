@@ -1,7 +1,4 @@
 #include<stdio.h>1
 #include<stdio.h>1
-<<<<<<< HEAD
-{ add minus
-=======
-{ add y 
->>>>>>> d9c1808faac38a5af28e9e635490eb4dfb46d2c7
+
+{ add minus y 
