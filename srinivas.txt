@@ -17,5 +17,6 @@ printf("result = %c",d)
 printf("multiplication of two numbers = %c",c);
 getch();
 
-skbgkhsbksbf
+skbgkhsbksbfjyfiygiyg
+jhkg
 ;
