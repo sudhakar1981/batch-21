@@ -10,7 +10,7 @@ a=25;
 b=27;
 c=a*b;
 
-printf("result is = %d",d)
+printf("result = %c",d)
 printf("multiplication of two numbers = %c",c);
 getch();
 
