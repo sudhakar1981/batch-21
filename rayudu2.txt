@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+printf("Hello, World again !");
+printf("Hello, World  is best!");
+
+a = 10+13;
+b = 11;
+c = a + b;
+d = a * b;
+   return 0;
+}
+

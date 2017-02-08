@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<conio.h>
+
+main();
+{
+int a,b,c,d;
+clrscr();
+
+a=25;
+b=27;
+c=a*b;
+
+
+printf("result = %c",d)
+
+
+printf("multiplication of two numbers = %c",c);
+getch();
+
+
+skbgkhsbksbfjyfiygiyg
+jhkg
+cfa973abdba3216573c343c7a820bcac389c421e
+;

@@ -3,13 +3,14 @@
 
 main();
 {
-int a,b,c,d,e;
+int a,b,c,d,e,f;
 
 a=30;
 b=50;
 d=25;
 c=a+b+d;
 e=b-a;
+f=d+e;
 
 printf("RESULT = %c",c);
 getche();
